@@ -17,11 +17,11 @@ I'm Zhiqiang Wei who is working at China Mobile (Suzhou) Software Technology Co.
 Research Interests
 ======
 <ul>
+<li>Fuzzing Test</li>
 <li>Multimodal Machine Learning</li>
 <li>Location Tracking System</li>
 <li>On-device Machine Learning</li>
 <li>Time-Series Forecasting</li>
-<li>Fuzzing Test</li>
 <li>Deep Generative Model</li>
 <li>Natural Language Generation</li>
 </ul>
@@ -30,6 +30,10 @@ Research Interests
 
 News
 ======
+
+[Feb. 2024] Paper accepted at IEEE Access, 2024.
+Work with Xijia Wei and Xinghua Zhao, "SGANFuzz: A Deep Learning-based MQTT Fuzzing Method using Generative Adversarial Networks".
+[Link](https://ieeexplore.ieee.org/document/10433531)
 
 [Dec. 2022] Paper accepted at ACAI 2022.
 Work with Xinghua Zhao, "An LSTM-based method for Message Queue Throughput Prediction".
